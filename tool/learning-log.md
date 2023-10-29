@@ -6,8 +6,8 @@ Project: **X**
 
 ---
 
-X/X/X:
-* Text
+10/27/23:
+* Set up arduino ide and exploring the ide.
 
 X/X/X:
 * Text
