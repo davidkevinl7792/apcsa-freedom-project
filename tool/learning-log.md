@@ -9,8 +9,8 @@ Project: **X**
 10/27/23:
 * Set up arduino ide and exploring the ide.
 
-X/X/X:
-* Text
+11/19/23:
+* Built a functioning motor using a guide and tried to change some values to switch the turning rate.
 
 
 <!-- 
