@@ -1,7 +1,7 @@
 # Entry 4
 ##### 5/1/24
 
-After a long time of improvising and making the movement mechanic for the slicer to get to it's destination, I was finally able to do it with the help of this [video](https://www.youtube.com/watch?v=YU17L650k3s) to understand how to control the rotation of a dc motor. My entire code came out to be like this:
+After a long time of improvising and making the movement mechanic for the slicer to get to it's destination, I was finally able to do it with the help of this [video](https://www.youtube.com/watch?v=YU17L650k3s) to understand how to control the rotation of a dc motor. My entire code came out to be like this on [tinkercad](https://www.tinkercad.com/things/4s5I2YapnTg-dazzling-luulia-inari?sharecode=kAdRuS3yJFK39LdAcJQ4zbFGMXdLbcXQBJVlo_xg68g):
 ```java
 #include <Servo.h>
 const int motorPin = 9;
