@@ -27,7 +27,7 @@ The back axle consist of four nuts so that it can hold the bearing and there's t
 
 ![IMG_2248](https://github.com/davidkevinl7792/apcsa-freedom-project/assets/91745064/968e4cf7-b7f3-49db-b6b0-04901abdcf4e)
 <br><br>
-In the end, I have a successful visual prototype that worked as intended, but I had to guide the motors myself a bit because they were too weak. I also had to use a ball to hold the servo motor up because the belt itself was kind of curved inwards and I tape both the ball and motor down on the conveyor belt for more stability. Here's a visual of it making a cut:
+In the end, I have a successful visual prototype that worked as intended, but I had to guide the motors myself a bit because they were too weak. I also had to use a ball to hold the servo motor up because the belt itself was kind of curved inwards and I tape both the ball and motor down on the conveyor belt for more stability. I had to also cut the number of motors because they weren't needed for the prototype to work and could perfectly work fine with two. They were also chomping up electricity from the other motors. Here's a visual of it making a cut:
 <br><br>
 
 ![IMG_2169](https://github.com/davidkevinl7792/apcsa-freedom-project/assets/91745064/a91c5235-adc1-4847-a2be-594a7eb47f1a)
