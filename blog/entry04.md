@@ -177,7 +177,7 @@ if(length<1){
     }
 ```
 This overwrites the current `delay()` to something smaller than it. I made some adjustments to the slicer. Instead of slicing it all at once, I made the slicer slice once at a time with the following code:
-```
+```java
 void cut(){
   //holder down
   for (pos = 0; pos <= 90; pos += 1) {
