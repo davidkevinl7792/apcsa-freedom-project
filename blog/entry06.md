@@ -1,7 +1,12 @@
 # Entry 6
-##### X/X/XX
+##### 6/13/24
 
-Text
+The day was finally here. The day I presented my work in the expository. I had some key takeaways from it which was to really try to arrive earlier. By earlier, I mean like 10-15 minutes early. I got to the expository around 5 minutes early and it still wasn't enough for me to set up. I had to wait for people to look for their numbers on a small chart and write it down on their paper until it was my turn. Once it got to my turn, I realized our project number was two which means we were second to be viewed out of the possible fifty something projects. I had to quickly rush back to my table and set up as fast as I could. Even by the time they got to us, skipped us because we weren't ready, and came back, I was barely had enough time to set up. I had to rewire most of my wires because they were moved from the arduino board and breadboard. Then I had to connect the wires from the breadboard to my motors and it was a mess. Also half my team was missing because they were running late. Luckily they didn't have much to set up because all they had to do was open their computer. It was chaotic start, but what could possibly go wrong since I finished setting up and we were all ready, right? My code didn't execute correctly and later on the day I realized I misplaced one of my wire and my arduino just decides to shut down. I was bummed out and I felt like I was presenting a project based on what my belief of what my project would do without evidence. However, at least my partners side of their projects ran successfully and at least we had some code running to present.
+
+A few days after my expository, I had a in-class presentation. This time it went much better because I had a gif that worked to prove my project and it went much more smooth. However, I still have a few takeawys from it. First we as a team, had to work on our transitions better because we were like all shuffling around and the transition from their project to my project wasn't clear. I also got comments I was talking for too long and realized I had to somehow speed things up while making sure people understand how it works since nearly nobody has ever worked on hardware before. Overall, both presentation had great takeaways for me to reflect and to see how I could do better in future presentations.
+
+[Here](https://docs.google.com/document/d/1q1kv5fxVlAfcq-0ERWnh0_SLryxskqKYo2vqAg-qa18) is the link to our elevator pitch <br><br>
+[Here](https://docs.google.com/presentation/d/1fzJTYPV8W36z7rmppDt6pjyQiK0mtnq6svw637Mek8o) is the link to our in-class presentation
 
 [Previous](entry05.md) | [Next](entry07.md)
 
